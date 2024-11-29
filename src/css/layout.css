@@ -1,0 +1,63 @@
+
+.navbar{
+    margin: 2.5rem 15rem;
+}
+
+main{
+    display:grid;
+    grid-template-columns:2.3fr 2fr;
+    margin-left: 16rem;
+    gap:40px;
+}
+
+.section1{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap:30px;
+    justify-content: space-around;
+   
+}
+
+.para p{
+    margin-bottom: 1.5rem;
+}
+.c1{
+    margin-bottom: 2.3rem;
+}
+#des1{
+    padding-bottom: 4rem;
+
+}
+#des3{
+    padding-bottom: 2rem;
+}
+
+.footer{
+    display: grid;
+    grid-template-columns: 25% 40% 25%;
+    gap:2rem;
+    margin:2rem 16rem;
+    box-sizing: border-box;
+}
+#collage1{
+    display:flex
+}
+
+#collage2{
+    display:flex;
+}
+
+
+
+.about img{
+    float:left;
+    width: 4rem;
+    height: 4rem;
+    padding-right: 10px;
+    margin-top: 7px;
+}
+
+.foot{
+    display: flex;
+    gap:16rem;
+}
